@@ -1,4 +1,4 @@
-password = "abc123"
+password = "Secure3P@ss"
 
 password_length = len(password)
 
